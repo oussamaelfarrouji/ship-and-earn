@@ -3,6 +3,6 @@
   "short_name": "Ship & Earn",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#F7F5F0",
-  "theme_color": "#0E6245"
+  "background_color": "#000000",
+  "theme_color": "#0071E3"
 }
