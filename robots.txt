@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oussamaelfarrouji.github.io/ship-and-earn/sitemap.xml
